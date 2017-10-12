@@ -1,3 +1,5 @@
+database.sqlite
+board-games-dataset.zip
 BoardGames.csv
 predictions.csv
 .ipynb_checkpoints/
